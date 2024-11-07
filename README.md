@@ -17,19 +17,21 @@ We build computational tools to design mechanical metamaterials. We focus on the
 ### 3. **Materials Design under Uncertainty:**
 
 The deterministic computational models are not powerful for precisely capturing the structural response of engineering components due to the variations in structural properties (aleatoric uncertainty), or modeling/mathematical inaccuracies in computational simulations (epistemic uncertainty). Such variability can propagate over the computational models and significantly impact the expected performance. Our goal is to build stochastic multi-scale computational environments to model and optimize engineering materials (metals, composites, polymers, metamaterials) by considering these aleatoric and epistemic uncertainties. 
-![design_uq](design_uq.png)
+<img src="design_uq.png" alt="design_uq" width="500"/>
 
 ### 4. **Computational Modeling of Ferromagnetic-Paramagnetic Phase Transition of Magnetic Materials:**
 
 The existing knowledge on the determination of the magnetic phase transition zone is based on simplified analyses as the comprehensive effects of the long-range interactions among the magnetic spins, external parameters, and uncertainties have been neglected. We propose to determine the ferromagnetic-paramagnetic phase transition onset and quantify the likelihood of the transition by examining: i) high-order interactions between the magnetic spins and external fields; ii) long-range effects including the grain boundaries and dislocations; iii) propagation of the uncertainties in external fields and temperature. 
-![magnetic](magnet.png)
+<img src="magnet.png" alt="magnetic" width="400"/>
+
 
 ### 5. **Machine Learning and Data-Driven Modeling and Design of Materials: **
 
 
 The multi-scale computational techniques have not been utilized for engineering-scale structural optimization problems due to the excessive computational cost of the multi-scale simulations involving billions of degrees of freedom. Machine learning-reinforced and data-driven models are found to provide efficient mathematical surrogates that are perfectly suited to overcome this computational burden. Our goal is to use this mathematically-rigorous approach to represent the multi-scale and complex interplay between processing, materials, and properties with their data-driven surrogates.
 
-![data-driven](data_drven.png)
+<img src="data_drven.png" alt="data-driven" width="400"/>
+
 
 ### 6. **Physics-Based and Data-Driven Modeling for Thermo-Mechanical Processing of Additively Manufactured Metals:**
 
