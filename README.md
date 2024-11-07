@@ -13,9 +13,9 @@ We develop computational models to bridge processing-microstructure-properties f
 ### 2. **Multi-Scale Computational Design of Mechanical Metamaterials:**
 
 We build computational tools to design mechanical metamaterials. We focus on the characterization of non-periodically repeating metamaterial architectures, the development of numerical homogenization methods, building mechanical property spaces, and multi-scale design of metamaterial architectures.
-<div align="center">
+
 ![multi_scale metamaterials](meta_multi.png)
-</div>
+
 ### 3. **Materials Design under Uncertainty:**
 
 The deterministic computational models are not powerful for precisely capturing the structural response of engineering components due to the variations in structural properties (aleatoric uncertainty), or modeling/mathematical inaccuracies in computational simulations (epistemic uncertainty). Such variability can propagate over the computational models and significantly impact the expected performance. Our goal is to build stochastic multi-scale computational environments to model and optimize engineering materials (metals, composites, polymers, metamaterials) by considering these aleatoric and epistemic uncertainties. 
