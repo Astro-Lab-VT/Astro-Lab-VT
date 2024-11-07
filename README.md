@@ -10,6 +10,7 @@ We develop computational models to bridge processing-microstructure-properties f
 <div align="center">
 <img src="multi_scale.png" alt="multi_scale" width="500"/>
 </div>
+
 ### 2. **Multi-Scale Computational Design of Mechanical Metamaterials:**
 
 We build computational tools to design mechanical metamaterials. We focus on the characterization of non-periodically repeating metamaterial architectures, the development of numerical homogenization methods, building mechanical property spaces, and multi-scale design of metamaterial architectures.
