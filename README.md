@@ -1,4 +1,4 @@
-# Welcome to the Advanced Structures and Optimization Lab (AstroLab) at Virginia Tech!
+# Welcome to the Advanced Structures and Optimization Lab (AstroLab) at Virginia Tech
 
 At AstroLab, we are interested in computational problems such as **multi-scale modeling**, **optimization**, **uncertainty quantification**, **model reduction**, and **machine learning** for different materials, including **metals**, **metallic alloys**, **composites**, and **meta-materials**. Our work spans multiple length scales, ranging from **micro-scale** to **component-level**, in environments that range from **moderate to extreme** conditions, with a special focus on **design**. 
 
