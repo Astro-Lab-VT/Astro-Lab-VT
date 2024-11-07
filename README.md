@@ -24,9 +24,7 @@ The deterministic computational models are not powerful for precisely capturing 
 The existing knowledge on the determination of the magnetic phase transition zone is based on simplified analyses as the comprehensive effects of the long-range interactions among the magnetic spins, external parameters, and uncertainties have been neglected. We propose to determine the ferromagnetic-paramagnetic phase transition onset and quantify the likelihood of the transition by examining: i) high-order interactions between the magnetic spins and external fields; ii) long-range effects including the grain boundaries and dislocations; iii) propagation of the uncertainties in external fields and temperature. 
 <img src="magnet.png" alt="magnetic" width="400"/>
 
-
 ### 5. **Machine Learning and Data-Driven Modeling and Design of Materials: **
-
 
 The multi-scale computational techniques have not been utilized for engineering-scale structural optimization problems due to the excessive computational cost of the multi-scale simulations involving billions of degrees of freedom. Machine learning-reinforced and data-driven models are found to provide efficient mathematical surrogates that are perfectly suited to overcome this computational burden. Our goal is to use this mathematically-rigorous approach to represent the multi-scale and complex interplay between processing, materials, and properties with their data-driven surrogates.
 
