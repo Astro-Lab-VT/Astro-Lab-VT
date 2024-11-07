@@ -39,9 +39,8 @@ The multi-scale computational techniques have not been utilized for engineering-
 ### 6. **Physics-Based and Data-Driven Modeling for Thermo-Mechanical Processing of Additively Manufactured Metals:**
 
 We develop physics-based and data-driven models for additively manufactured metals to investigate the formation and evolution of microstructural features, including crystallographic texture and grain topology. Applications include the design of Ti-Al and Nickel-based alloys during electron beam melting and MELD processes to be used for aerospace systems.
-<div align="center">
+
 ![physics_based](phys_based.png)
-</div>
 ---
 
 **Contact Information:**
