@@ -7,7 +7,7 @@ Our research interests are including (but not limited to) the following topics:
 
 ### 1. **Multi-Scale Modeling of Metallic Microstructures:**
 We develop computational models to bridge processing-microstructure-properties for metallic microstructures. These models investigate how thermo-mechanical processing variables affect the evolution of microstructures, as well as the development of material properties throughout components. 
-![multi_scale](multi_scale.png)
+<img src="multi_scale.png" alt="multi_scale" width="300"/>
 
 ### 2. **Multi-Scale Computational Design of Mechanical Metamaterials:**
 
