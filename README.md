@@ -22,6 +22,7 @@ The deterministic computational models are not powerful for precisely capturing 
 <div align="center">
 <img src="design_uq.png" alt="design_uq" width="500"/>
 </div>
+
 ### 4. **Computational Modeling of Ferromagnetic-Paramagnetic Phase Transition of Magnetic Materials:**
 
 The existing knowledge on the determination of the magnetic phase transition zone is based on simplified analyses as the comprehensive effects of the long-range interactions among the magnetic spins, external parameters, and uncertainties have been neglected. We propose to determine the ferromagnetic-paramagnetic phase transition onset and quantify the likelihood of the transition by examining: i) high-order interactions between the magnetic spins and external fields; ii) long-range effects including the grain boundaries and dislocations; iii) propagation of the uncertainties in external fields and temperature. 
